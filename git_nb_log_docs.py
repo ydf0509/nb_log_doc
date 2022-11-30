@@ -48,7 +48,7 @@ time.sleep(3)
 import requests
 
 print('构建docs。。。。')
-resp = requests.post('https://readthedocs.org/api/v2/webhook/funboost/209632/',data={'token':'f921330d7ad55f73f19dc4822f92d81011fb417a'})
+resp = requests.post('readthedocs.org/api/v2/webhook/nb-log-doc/219831/',data={'token':'ccdb7e995bcd1135279dae1edd2a2676fb7dcf7a'})
 
 print(resp.text)
 
