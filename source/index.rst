@@ -18,6 +18,7 @@ Welcome to nb_log's documentation!
    articles/c5.md
    articles/c6.md
    articles/c7.md
+   articles/c8.md
 
 
 
