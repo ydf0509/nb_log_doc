@@ -1,3 +1,14 @@
 .wy-nav-content {
     max-width: none;
 }
+
+.highlight .c1 {
+    color: #3D7B7B;
+    font-style:normal;
+}
+
+.highlight .sd {
+    color: #BA2121;
+    font-style: normal;
+}
+
